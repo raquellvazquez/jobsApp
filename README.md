@@ -14,7 +14,7 @@ Este proyecto consta de la creación de una aplicación que permite ver la infor
 <br>
  <div align="center">
     <br>
-    <img src="" alt="img" width="auto" height="auto" />
+    <img src="./assets/demo.gif" alt="img" width="auto" height="auto" />
     <br>
 </div>
 
